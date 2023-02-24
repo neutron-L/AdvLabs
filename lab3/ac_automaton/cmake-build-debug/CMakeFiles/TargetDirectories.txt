@@ -1,0 +1,3 @@
+D:/lab/lab3/ac_automaton/cmake-build-debug/CMakeFiles/ac_automaton.dir
+D:/lab/lab3/ac_automaton/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/lab/lab3/ac_automaton/cmake-build-debug/CMakeFiles/rebuild_cache.dir

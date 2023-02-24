@@ -1,0 +1,13 @@
+# ninja log v5
+9	74	6899726803065899	CMakeFiles/ac_automaton.dir/ref.c.obj	95c967b9a09391e8
+2	82	6892519181385353	CMakeFiles/ac_automaton.dir/main.cpp.obj	dc869e5dc77e66e5
+2	79	6894298170168403	CMakeFiles/ac_automaton.dir/queue.c.obj	e6b9642ea6ab8ee1
+8	171	6925141149336880	CMakeFiles/ac_automaton.dir/ac.c.obj	19af6099b3ad446c
+172	303	6925141150642090	ac_automaton.exe	acfc157e2224e6d9
+2	172	6925141149336880	CMakeFiles/ac_automaton.dir/main.c.obj	901779050f81c561
+15	96	6930350595205244	CMakeFiles/ac_automaton.dir/queue.c.obj	601628d63a8dcad1
+3	101	6930350595255261	CMakeFiles/ac_automaton.dir/main.c.obj	ca9279d6f9fcce91
+9	103	6930350595275265	CMakeFiles/ac_automaton.dir/ac.c.obj	2ca03feaefc67e1f
+103	231	6930350596511144	ac_automaton.exe	acfc157e2224e6d9
+2	93	6930373129052922	CMakeFiles/ac_automaton.dir/main.c.obj	ca9279d6f9fcce91
+93	224	6930373130315890	ac_automaton.exe	acfc157e2224e6d9

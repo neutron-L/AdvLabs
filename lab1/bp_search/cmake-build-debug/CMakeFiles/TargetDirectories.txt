@@ -1,0 +1,3 @@
+D:/lab/lab1/bp_search/cmake-build-debug/CMakeFiles/bp_search.dir
+D:/lab/lab1/bp_search/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/lab/lab1/bp_search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
